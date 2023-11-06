@@ -1,3 +1,19 @@
+# ☕Diagrama de Classes do Projeto
+
+## 📄 Integrantes 
+
+<details>
+  <summary>Clique para expandir a lista de integrantes</summary>
+  
+  - Pedro Antônio
+  - Vinícius Moraes
+  - Bruno Correa
+</details>
+
+
+
+
+
 ```mermaid
 
 classDiagram
