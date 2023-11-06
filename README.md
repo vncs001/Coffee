@@ -15,7 +15,7 @@ classDiagram
 
     class Cappuccino {
         <<Bebidas>>
-        // Implementação específica de Cappuccino
+        
     }
 
     class Expresso {
@@ -38,7 +38,7 @@ classDiagram
         // Implementação específica de Mochaccino
     }
 
-    Menu --|> Bebidas : Herda
+   
     Cappuccino --|> Bebidas : Herda
     Expresso --|> Bebidas : Herda
     Chá --|> Bebidas : Herda
