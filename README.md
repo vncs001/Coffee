@@ -1,39 +1,45 @@
 classDiagram
     class Menu {
-        + Desligar()
-        + Confirmar()
-        + Selecionar()
+        - Desligar()
+        - Confirmar()
+        - Selecionar()
     }
 
     class Bebidas {
-        + Filtrar()
-        + Tamanho()
-        + Adoçar()
+        - Filtrar()
+        - Tamanho()
+        - Adoçar()
     }
 
     class Cappuccino {
-        // Implementação dos métodos específicos de Cappuccino
+        <<Bebidas>>
+        // Implementação específica de Cappuccino
     }
 
     class Expresso {
-        // Implementação dos métodos específicos de Expresso
+        <<Bebidas>>
+        // Implementação específica de Expresso
     }
 
     class Chá {
-        // Implementação dos métodos específicos de Chá
+        <<Bebidas>>
+        // Implementação específica de Chá
     }
 
     class Milkshake {
-        // Implementação dos métodos específicos de Milkshake
+        <<Bebidas>>
+        // Implementação específica de Milkshake
     }
 
     class Mochaccino {
-        // Implementação dos métodos específicos de Mochaccino
+        <<Bebidas>>
+        // Implementação específica de Mochaccino
     }
 
-    Menu --|> Bebidas
-    Cappuccino --|> Bebidas
-    Expresso --|> Bebidas
-    Chá --|> Bebidas
-    Milkshake --|> Bebidas
-    Mochaccino --|> Bebidas
+    Menu --|> Bebidas : Herda
+    Cappuccino --|> Bebidas : Herda
+    Expresso --|> Bebidas : Herda
+    Chá --|> Bebidas : Herda
+    Milkshake --|> Bebidas : Herda
+    Mochaccino --|> Bebidas : Herda
+
