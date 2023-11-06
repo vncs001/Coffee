@@ -10,6 +10,20 @@
   - Bruno Correa
 </details>
 
+## ✅Requisitos
+
+<details>
+  <summary>Clique para expandir a lista de tarefas</summary>
+  
+  - [ ] Programa estruturado em classes de acordo com o princípio de encapsulamento
+  - [ ] Mínimo de 5 classes
+  - [ ] 1 classe Abstrata
+  - [ ] 1 método Abstrato
+  - [ ] Total de 10 atributos e 10 métodos
+  - [ ] 
+  - [ ]
+</details>
+
 
 
 
