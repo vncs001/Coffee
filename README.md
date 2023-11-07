@@ -9,8 +9,8 @@
   - Vinícius Moraes
   - Bruno Correa
 </details>
-
-## ✅Requisitos
+  
+ ## ✅Requisitos A
 
 <details>
   <summary>Clique para expandir a lista de tarefas</summary>
@@ -20,9 +20,24 @@
   - [ ] 1 classe Abstrata
   - [ ] 1 método Abstrato
   - [ ] Total de 10 atributos e 10 métodos
-  - [ ] 
-  - [ ]
+  - [ ] Duas relações de herança entre classes
+  - [ ] Um método sobrescrito por uma subclasse(abstração não vale)
+  - [ ] Ao menos, uma camada polimórfica de método
+  - [ ] uma relação de associação entre 2 classes
+  - [ ] Ao menos, uma coleção de objetos (ArrayList)
 </details>
+  
+## ☑Requisitos B
+<details>
+<summary>Clique para expandir a lista de tarefas</summary>
+
+   - [ ] Uma classe derivada do Exception
+   - [ ] Interface gráfica
+   - [ ] ler dados de um arquivo csv ou txt
+   - [ ] recuera e salva objetos persistentes
+  
+</details>
+
 
 
 
