@@ -24,7 +24,7 @@
   - [ ] Um método sobrescrito por uma subclasse(abstração não vale)
   - [ ] Ao menos, uma camada polimórfica de método
   - [ ] uma relação de associação entre 2 classes
-  - [ ] Ao menos, uma coleção de objetos (ArrayList)
+  - [X] Ao menos, uma coleção de objetos (ArrayList)
 </details>
   
 ## ☑Requisitos B
