@@ -31,7 +31,7 @@
 <details>
 <summary>Clique para expandir a lista de tarefas</summary>
 
-   - [ ] Uma classe derivada do Exception
+   - [X] Uma classe derivada do Exception
    - [ ] Interface gráfica
    - [ ] ler dados de um arquivo csv ou txt
    - [ ] recuera e salva objetos persistentes
