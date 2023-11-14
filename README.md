@@ -15,15 +15,15 @@
 <details>
   <summary>Clique para expandir a lista de tarefas</summary>
   
-  - [ ] Programa estruturado em classes de acordo com o princípio de encapsulamento
-  - [ ] Mínimo de 5 classes
-  - [ ] 1 classe Abstrata
-  - [ ] 1 método Abstrato
-  - [ ] Total de 10 atributos e 10 métodos
+  - [x] Programa estruturado em classes de acordo com o princípio de encapsulamento
+  - [x] Mínimo de 5 classes
+  - [x] 1 classe Abstrata
+  - [x] 1 método Abstrato
+  - [x] Total de 10 atributos e 10 métodos
   - [ ] Duas relações de herança entre classes
   - [ ] Um método sobrescrito por uma subclasse(abstração não vale)
-  - [ ] Ao menos, uma camada polimórfica de método
-  - [ ] uma relação de associação entre 2 classes
+  - [ ] Ao menos, uma chamada polimórfica de método (exemplo do Som de Animal)
+  - [ ] uma relação de associação entre 2 classes (exemplo da comida com Animal)
   - [X] Ao menos, uma coleção de objetos (ArrayList)
 </details>
   
