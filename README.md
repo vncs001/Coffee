@@ -20,9 +20,9 @@
   - [x] 1 classe Abstrata
   - [x] 1 método Abstrato
   - [x] Total de 10 atributos e 10 métodos
-  - [ ] Duas relações de herança entre classes
+  - [x] Duas relações de herança entre classes
   - [ ] Um método sobrescrito por uma subclasse(abstração não vale)
-  - [ ] Ao menos, uma chamada polimórfica de método (exemplo do Som de Animal)
+  - [x] Ao menos, uma chamada polimórfica de método (exemplo do Som de Animal)
   - [ ] uma relação de associação entre 2 classes (exemplo da comida com Animal)
   - [X] Ao menos, uma coleção de objetos (ArrayList)
 </details>
@@ -32,7 +32,7 @@
 <summary>Clique para expandir a lista de tarefas</summary>
 
    - [X] Uma classe derivada do Exception
-   - [ ] Interface gráfica
+   - [x] Interface gráfica
    - [ ] ler dados de um arquivo csv ou txt
    - [ ] recuera e salva objetos persistentes
   
